@@ -10,12 +10,7 @@
 
 This paper presents a novel approach to extract scientifically valuable information about Earth's physical phenomena from unconventional sources, such as multimodal social media posts. Employing a state-of-the-art large language model (LLM), Gemini 1.5 Pro's, we estimate earthquake ground shaking intensity from these unstructured posts. The model's output, estimated intensity values, aligns well with independent observational data. Furthermore, our results suggest that LLMs, trained on vast internet data, may have developed a unique understanding of physical phenomena. Specifically, Google's Gemini models demonstrate a simplified understanding of the general relationship between earthquake magnitude, distance and intensity, accurately describing observational data even though it is not identical to established models. These findings raise intriguing questions about the extent to which Gemini's training has led to a broader understanding of the physical world and its phenomena. The ability of Generative AI models like Gemini to generate results consistent with established scientific knowledge highlights their potential to augment our understanding of complex physical phenomena like earthquakes. The flexible and effective approach proposed in this study holds immense potential for enriching our understanding of the impact of physical phenomena and improving resilience during natural disasters. This research is a significant step toward harnessing the power of social media and AI for natural disaster mitigation, opening new avenues for understanding the emerging capabilities of Generative AI and LLMs for scientific applications.
 
-### Paper:
-Link 1: 
-https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-text
-
-Link 2:
-https://arxiv.org/abs/2405.18732
+[Paper](https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-text)
 
 [Listen to its summary](https://illuminate.google.com/library?play=EvwJDC_qTMF3)
 
