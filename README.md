@@ -10,7 +10,7 @@
 
 
 <img src="https://github.com/smousavi05/MMIbyGemini/taiwan.gif" alt="A social media post sharing a video capturing the impact of M 7.4 eathquake on 3 April 2024 in Taiwan">
-
+![Alt text]([url](https://github.com/smousavi05/MMIbyGemini/taiwan.gif))
 
 [Paper](https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-text)
 
