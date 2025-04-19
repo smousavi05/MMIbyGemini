@@ -8,6 +8,8 @@ Here are the codes and pointers for paper:
 ![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/MMIbyGemini?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
+<img src="https://github.com/smousavi05/MMIbyGemini/blob/main/tweet_example.png" alt="an example of intensity estimation from a tweet related to the 2024 earthquake in New Jersey ">
+
 ### Input:
 <img src="https://github.com/smousavi05/MMIbyGemini/blob/main/taiwan.gif" alt="A social media post sharing a video capturing the impact of M 7.4 eathquake on 3 April 2024 in Taiwan">
 
