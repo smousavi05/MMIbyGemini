@@ -8,9 +8,34 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/smousavi05/MMIbyGemini?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
-
+## Input:
 <img src="https://github.com/smousavi05/MMIbyGemini/blob/main/taiwan.gif" alt="A social media post sharing a video capturing the impact of M 7.4 eathquake on 3 April 2024 in Taiwan">
 
+
+## Gemini's output:
+"earthquake_location": "Taiwan (exact location not specified)",
+ "shaking_duration": "Approximately 35 seconds based on the video duration.",
+ "building_type": "Residential apartment (assumed based on interior furnishings)",
+ "humans_reaction": "The person in the video exhibits alarm and attempts to take cover.",
+ "video_evidence": {
+   "Intense Shaking": "Objects are visibly swaying and moving, with some falling from shelves and surfaces.",
+   "Object Movement": "Items on tables and shelves are displaced, indicating significant ground motion.",
+   "Person's Reaction": "The individual's attempt to seek cover suggests a perception of danger and strong shaking."},
+ "audio_evidence": {
+   "Rattling and Crashing": "Sounds of objects shaking and colliding suggest a high degree of ground movement.",
+   "Possible Vocalizations": "Sounds of alarm or distress from the person, though not clearly discernible."},
+ "textual_evidence": {
+   "Post Description": "The user's comment 'I can't imagine being shaken around like that' indicates a perception of intense shaking."},
+
+ "mmi_estimation": "MMI VI or MMI VII",
+
+ "visual_observation": "The video evidence portrays a scene of significant ground shaking, with objects being displaced and falling. The person's reaction further supports the notion of strong shaking.",
+ "auditory_cues": "The audio complements the visual evidence by providing the sounds of objects rattling and crashing, adding to the overall impression of intense ground movement.",
+
+ "reasoning": "While the video doesn't show major structural damage, the intensity of object movement and the individual's response suggest a level of shaking that is beyond MMI V. However, without evidence of more severe damage (e.g., large cracks in walls, partial building collapse), assigning MMI VII with high confidence is not possible. Hence, the estimated uncertainty is 0.5, reflecting a moderate level of confidence in the MMI VI or VII range."
+
+
+-------------------------------------
 [Paper](https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-text)
 
 [Listen to its summary](https://illuminate.google.com/library?play=EvwJDC_qTMF3)
