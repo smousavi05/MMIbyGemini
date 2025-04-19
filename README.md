@@ -17,11 +17,11 @@ https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-
 Link 2:
 https://arxiv.org/abs/2405.18732
 
-### [Listen to its summary] (https://illuminate.google.com/library?play=EvwJDC_qTMF3)
+[Listen to its summary](https://illuminate.google.com/library?play=EvwJDC_qTMF3)
 
-### [Dataset] (https://drive.google.com/file/d/1s78fxDheptTfJwq6TDQq_0qxCgiwGOYC/view?usp=sharing)
+[Dataset](https://illuminate.google.com/library?play=EvwJDC_qTMF3)
 
-### [Prompt] (https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gji/240/2/10.1093_gji_ggae436/2/ggae436_supplemental_file.pdf?Expires=1748085392&Signature=RAJ~nDB6kUAkE1I56RGxtct2ololr5GkjcZAPar~V1wpuJD4hZtYUr94e7LDWAZz~PFyRDQkKzrsgoKIu1R2lgrCQgeBSzaER12qwB0oQaqwjYzePM8h1OFX4ISsZayYkl7G5zbcMCAMg52IUPjA4y83s-7hcuZImFVkdk-tX7maji8IMKyiLIfNz49FW2aKdFCOEYVMxVAFAirsah0u3puqFsT0l0AGRQGD~QigQZOfxKyPnjiVSJ1qmt~gIrYTlJ4JVPAEwbam8gtwoY2BPy0j5u2A3lP-NASnKNSrebPtEph4uqIja8DSKrVQ1c3SLe9CLvApsSoT0zA5U-6MTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+[Prompt](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gji/240/2/10.1093_gji_ggae436/2/ggae436_supplemental_file.pdf?Expires=1748085392&Signature=RAJ~nDB6kUAkE1I56RGxtct2ololr5GkjcZAPar~V1wpuJD4hZtYUr94e7LDWAZz~PFyRDQkKzrsgoKIu1R2lgrCQgeBSzaER12qwB0oQaqwjYzePM8h1OFX4ISsZayYkl7G5zbcMCAMg52IUPjA4y83s-7hcuZImFVkdk-tX7maji8IMKyiLIfNz49FW2aKdFCOEYVMxVAFAirsah0u3puqFsT0l0AGRQGD~QigQZOfxKyPnjiVSJ1qmt~gIrYTlJ4JVPAEwbam8gtwoY2BPy0j5u2A3lP-NASnKNSrebPtEph4uqIja8DSKrVQ1c3SLe9CLvApsSoT0zA5U-6MTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 -------------------------------------
 ## Reference:
