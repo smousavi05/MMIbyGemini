@@ -1,5 +1,5 @@
-# Here are the codes and pointers for paper: 
-## Gemini and physical world: large language models can estimate the intensity of earthquake shaking from multimodal social media posts
+Here are the codes and pointers for paper: 
+# Gemini and physical world: large language models can estimate the intensity of earthquake shaking from multimodal social media posts
                                                                                                   
 ![GitHub last commit](https://img.shields.io/github/last-commit/smousavi05/MMIbyGemini?style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/smousavi05/MMIbyGemini?style=social)
