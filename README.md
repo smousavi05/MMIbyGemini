@@ -9,7 +9,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/smousavi05?style=social)
 
 
-<img src="https://github.com/smousavi05/MMIbyGemini/taiwan.gif" alt="A social media post sharing a video capturing the impact of M 7.4 eathquake on 3 April 2024 in Taiwan">
+<img src="https://github.com/smousavi05/MMIbyGemini/blob/main/taiwan.gif" alt="A social media post sharing a video capturing the impact of M 7.4 eathquake on 3 April 2024 in Taiwan">
 
 [Paper](https://academic.oup.com/gji/article/240/2/1281/7921623?trk=public_post_comment-text)
 
